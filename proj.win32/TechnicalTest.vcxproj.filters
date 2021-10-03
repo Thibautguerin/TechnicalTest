@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\GameManager.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Player.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Game.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Enemy.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Tank.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Plane.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Projectile.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Explosion.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\GameManager.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Player.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Game.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Enemy.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Tank.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Plane.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Projectile.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Classes\Explosion.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{6BAD005B-3A3A-35C0-8661-0A988367FBDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{C748AF86-3E9B-3BDB-B0C2-28DE853CF8D7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{B2D4D56E-90B8-3FEF-8E6F-130B4465FB2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{37823731-5BCB-38AD-A99E-9B33203AE0F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{913972B6-7EC1-3102-93B3-5BA0C0A95B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{7E1C34D1-C4EA-3CB9-B0F8-3DC45ADC98A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

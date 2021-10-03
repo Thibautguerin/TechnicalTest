@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\CMakeFiles\dacfdf9291aaf6ccd8ad62b7cf320110\SYNC_RESOURCE-TechnicalTest.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\thiba\Downloads\cocos2d-x-4.0\TechnicalTest\proj.win32\CMakeFiles\SYNC_RESOURCE-TechnicalTest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E5E2C4B5-8453-39F3-8F2A-F54B4B372D20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
